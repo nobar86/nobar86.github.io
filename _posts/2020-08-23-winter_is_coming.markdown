@@ -11,9 +11,9 @@ permalink:  winter_is_coming
 
 `The most challenging aspect of this project I ran into was getting the correct URL for my API. I tried som many different URL's, but none of them were giving me the results that I wanted to display to my users. I did encounter a few more hiccups along the way such as: getting the correct syntax for certain methods, getting all my classes to talk to one another, and figuring out how to display an array as a string, which I found out from a fellow cohort is .join. Other than these few issues, the rest of the project went fairly smooth. So now I have a fully functional program that I hope my users will enjoy.`
 
-```
-I had a really great time working on this project and trying to figure out my issues and debugging my program. I was able to accomplish finishing this project because I have great teachers and excellent cohort members who helped me along the way. I could not have done this without you guys. Thank you very much for all the help, support, and encouragement that pushed me to the finish line! I am looking forward to the rest of the projects we have remaining in this cohort and the challenges that they bring. 
-```
+
+`I had a really great time working on this project and trying to figure out my issues and debugging my program. I was able to accomplish finishing this project because I have great teachers and excellent cohort members who helped me along the way. I could not have done this without you guys. Thank you very much for all the help, support, and encouragement that pushed me to the finish line! I am looking forward to the rest of the projects we have remaining in this cohort and the challenges that they bring.` 
+
 
 `Until next time...`
 
